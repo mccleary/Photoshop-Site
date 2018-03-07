@@ -18,9 +18,9 @@ Single page, personal website created from a Photoshop image file using only HTM
 * Find font size
 * Find font color (Hex or RGB)
 
-# View Completed site Here
+### View Completed site Here
 [Live Demo](https://mccleary.github.io/Photoshop-Site)
 
 
-# View Photoshop Image Here
+### View Photoshop Image Here
 ![Photoshop Image](img/photoshop-site.png)
