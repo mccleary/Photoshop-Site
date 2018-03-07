@@ -23,4 +23,4 @@ Single page, personal website created from a Photoshop image file using only HTM
 
 
 # View Photoshop Image Here
-![Photoshop Image](img/photoshop-image.png)
+![Photoshop Image](img/photoshop-site.png)
